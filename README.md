@@ -109,3 +109,8 @@ Após a atualização do ranking na coleção, os dados dos jogadores são grava
 
 
 ## Este projeto não apenas oferece uma implementação do jogo da cobrinha, mas também incorpora desafios adicionais, como a inclusão de um sistema de ranking persistente, proporcionando uma experiência mais completa e envolvente para o jogador.
+
+Dupla:
+<a href="https://github.com/Kainan7"> Kainan7 </a>
+e
+<a href="https://github.com/VictorHAL"> VictorHAL </a>
